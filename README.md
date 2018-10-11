@@ -1,1 +1,1 @@
-Chinatelecom Elink
+ChinaTelecom Elink
