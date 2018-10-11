@@ -1,0 +1,12 @@
+/Makefile/1.1/Fri Jan 25 17:53:11 2013//TBR_SOHO_1_8_9_CHINA
+/i_cbc.c/1.1/Fri Jan 25 17:53:16 2013//TBR_SOHO_1_8_9_CHINA
+/i_cfb64.c/1.1/Fri Jan 25 17:53:14 2013//TBR_SOHO_1_8_9_CHINA
+/i_ecb.c/1.1/Fri Jan 25 17:53:19 2013//TBR_SOHO_1_8_9_CHINA
+/i_ofb64.c/1.1/Fri Jan 25 17:53:15 2013//TBR_SOHO_1_8_9_CHINA
+/i_skey.c/1.1/Fri Jan 25 17:53:17 2013//TBR_SOHO_1_8_9_CHINA
+/idea.h/1.1/Fri Jan 25 17:53:08 2013//TBR_SOHO_1_8_9_CHINA
+/idea_lcl.h/1.1/Fri Jan 25 17:53:09 2013//TBR_SOHO_1_8_9_CHINA
+/idea_spd.c/1.1/Fri Jan 25 17:53:07 2013//TBR_SOHO_1_8_9_CHINA
+/ideatest.c/1.1/Fri Jan 25 17:53:10 2013//TBR_SOHO_1_8_9_CHINA
+/version/1.1/Fri Jan 25 17:53:12 2013//TBR_SOHO_1_8_9_CHINA
+D

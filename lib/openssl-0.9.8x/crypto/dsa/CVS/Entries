@@ -1,0 +1,18 @@
+/Makefile/1.1/Fri Jan 25 17:58:06 2013//TBR_SOHO_1_8_9_CHINA
+/Makefile.save/1.1/Fri Jan 25 17:58:02 2013//TBR_SOHO_1_8_9_CHINA
+/README/1.1/Fri Jan 25 17:57:59 2013//TBR_SOHO_1_8_9_CHINA
+/dsa.h/1.1/Fri Jan 25 17:58:01 2013//TBR_SOHO_1_8_9_CHINA
+/dsa_asn1.c/1.1/Fri Jan 25 17:58:10 2013//TBR_SOHO_1_8_9_CHINA
+/dsa_depr.c/1.1/Fri Jan 25 17:58:12 2013//TBR_SOHO_1_8_9_CHINA
+/dsa_err.c/1.1/Fri Jan 25 17:57:58 2013//TBR_SOHO_1_8_9_CHINA
+/dsa_gen.c/1.1/Fri Jan 25 17:58:04 2013//TBR_SOHO_1_8_9_CHINA
+/dsa_key.c/1.1/Fri Jan 25 17:58:08 2013//TBR_SOHO_1_8_9_CHINA
+/dsa_lib.c/1.1/Fri Jan 25 17:58:05 2013//TBR_SOHO_1_8_9_CHINA
+/dsa_ossl.c/1.1/Fri Jan 25 17:58:07 2013//TBR_SOHO_1_8_9_CHINA
+/dsa_sign.c/1.1/Fri Jan 25 17:58:14 2013//TBR_SOHO_1_8_9_CHINA
+/dsa_utl.c/1.1/Fri Jan 25 17:58:13 2013//TBR_SOHO_1_8_9_CHINA
+/dsa_vrf.c/1.1/Fri Jan 25 17:58:09 2013//TBR_SOHO_1_8_9_CHINA
+/dsagen.c/1.1/Fri Jan 25 17:58:03 2013//TBR_SOHO_1_8_9_CHINA
+/dsatest.c/1.1/Fri Jan 25 17:58:11 2013//TBR_SOHO_1_8_9_CHINA
+/fips186a.txt/1.1/Fri Jan 25 17:58:00 2013//TBR_SOHO_1_8_9_CHINA
+D

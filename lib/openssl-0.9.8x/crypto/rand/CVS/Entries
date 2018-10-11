@@ -1,0 +1,17 @@
+/Makefile/1.1/Fri Jan 25 18:08:59 2013//TBR_SOHO_1_8_9_CHINA
+/Makefile.save/1.1/Fri Jan 25 18:08:52 2013//TBR_SOHO_1_8_9_CHINA
+/md_rand.c/1.1/Fri Jan 25 18:09:00 2013//TBR_SOHO_1_8_9_CHINA
+/rand.h/1.1/Fri Jan 25 18:08:58 2013//TBR_SOHO_1_8_9_CHINA
+/rand_egd.c/1.1/Fri Jan 25 18:08:56 2013//TBR_SOHO_1_8_9_CHINA
+/rand_eng.c/1.1/Fri Jan 25 18:08:57 2013//TBR_SOHO_1_8_9_CHINA
+/rand_err.c/1.1/Fri Jan 25 18:08:55 2013//TBR_SOHO_1_8_9_CHINA
+/rand_lcl.h/1.1/Fri Jan 25 18:09:05 2013//TBR_SOHO_1_8_9_CHINA
+/rand_lib.c/1.1/Fri Jan 25 18:09:01 2013//TBR_SOHO_1_8_9_CHINA
+/rand_nw.c/1.1/Fri Jan 25 18:08:54 2013//TBR_SOHO_1_8_9_CHINA
+/rand_os2.c/1.1/Fri Jan 25 18:09:06 2013//TBR_SOHO_1_8_9_CHINA
+/rand_unix.c/1.1/Fri Jan 25 18:09:03 2013//TBR_SOHO_1_8_9_CHINA
+/rand_vms.c/1.1/Fri Jan 25 18:09:04 2013//TBR_SOHO_1_8_9_CHINA
+/rand_win.c/1.1/Fri Jan 25 18:08:53 2013//TBR_SOHO_1_8_9_CHINA
+/randfile.c/1.1/Fri Jan 25 18:09:02 2013//TBR_SOHO_1_8_9_CHINA
+/randtest.c/1.1/Fri Jan 25 18:08:51 2013//TBR_SOHO_1_8_9_CHINA
+D

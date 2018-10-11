@@ -1,0 +1,11 @@
+/Makefile/1.1/Fri Jan 25 17:50:51 2013//TBR_SOHO_1_8_9_CHINA
+/fips_rsa_eay.c/1.1/Fri Jan 25 17:50:56 2013//TBR_SOHO_1_8_9_CHINA
+/fips_rsa_gen.c/1.1/Fri Jan 25 17:50:54 2013//TBR_SOHO_1_8_9_CHINA
+/fips_rsa_lib.c/1.1/Fri Jan 25 17:50:57 2013//TBR_SOHO_1_8_9_CHINA
+/fips_rsa_selftest.c/1.1/Fri Jan 25 17:50:59 2013//TBR_SOHO_1_8_9_CHINA
+/fips_rsa_sign.c/1.1/Fri Jan 25 17:50:52 2013//TBR_SOHO_1_8_9_CHINA
+/fips_rsa_x931g.c/1.1/Fri Jan 25 17:50:50 2013//TBR_SOHO_1_8_9_CHINA
+/fips_rsagtest.c/1.1/Fri Jan 25 17:50:55 2013//TBR_SOHO_1_8_9_CHINA
+/fips_rsastest.c/1.1/Fri Jan 25 17:50:53 2013//TBR_SOHO_1_8_9_CHINA
+/fips_rsavtest.c/1.1/Fri Jan 25 17:50:58 2013//TBR_SOHO_1_8_9_CHINA
+D

@@ -1,0 +1,19 @@
+/Makefile/1.1/Fri Jan 25 17:50:17 2013//TBR_SOHO_1_8_9_CHINA
+/fips-lib.com/1.1/Fri Jan 25 17:50:34 2013//TBR_SOHO_1_8_9_CHINA
+/fips-nodiff.txt/1.1/Fri Jan 25 17:50:43 2013//TBR_SOHO_1_8_9_CHINA
+/fips.c/1.1/Fri Jan 25 17:50:22 2013//TBR_SOHO_1_8_9_CHINA
+/fips.h/1.1/Fri Jan 25 17:51:06 2013//TBR_SOHO_1_8_9_CHINA
+/fips_canister.c/1.1/Fri Jan 25 17:50:23 2013//TBR_SOHO_1_8_9_CHINA
+/fips_locl.h/1.1/Fri Jan 25 17:50:38 2013//TBR_SOHO_1_8_9_CHINA
+/fips_premain.c/1.1/Fri Jan 25 17:50:36 2013//TBR_SOHO_1_8_9_CHINA
+/fips_premain.c.sha1/1.1/Fri Jan 25 17:50:35 2013//TBR_SOHO_1_8_9_CHINA
+/fips_test_suite.c/1.1/Fri Jan 25 17:50:44 2013//TBR_SOHO_1_8_9_CHINA
+/fips_utl.h/1.1/Fri Jan 25 17:50:33 2013//TBR_SOHO_1_8_9_CHINA
+/fipsalgtest.pl/1.1/Fri Jan 25 17:50:45 2013//TBR_SOHO_1_8_9_CHINA
+/fipsld/1.1/Fri Jan 25 17:50:05 2013//TBR_SOHO_1_8_9_CHINA
+/fipstests.bat/1.1/Fri Jan 25 17:50:37 2013//TBR_SOHO_1_8_9_CHINA
+/fipstests.sh/1.1/Fri Jan 25 17:50:46 2013//TBR_SOHO_1_8_9_CHINA
+/install.com/1.1/Fri Jan 25 17:50:16 2013//TBR_SOHO_1_8_9_CHINA
+/mkfipsscr.pl/1.1/Fri Jan 25 17:50:39 2013//TBR_SOHO_1_8_9_CHINA
+/openssl_fips_fingerprint/1.1/Fri Jan 25 17:50:42 2013//TBR_SOHO_1_8_9_CHINA
+D
